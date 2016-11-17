@@ -18,13 +18,13 @@ p {
 }
 
 body {
-   background-color: #F6F6F6;
+   background-color: #d6f5d6;
 }
 
 a {
    font-family: "Arial Black", Gadget, sans-serif;
    color: #5b6161;
-   border: 2px solid #fff;
+   border: 2px solid green;
    border-radius: 20px;
 
 }
